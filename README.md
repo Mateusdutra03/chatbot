@@ -56,7 +56,7 @@ Conta e chave de API da OpenAI
 Biblioteca openai
 
 📞 Contato
-Desenvolvido por Digital Quanta 🚀
+Desenvolvido por https://digitalquanta.com.br 🚀
 
 🔧 Soluções em Inteligência Artificial, Chatbots e Automação para empresas de todos os portes.
 
